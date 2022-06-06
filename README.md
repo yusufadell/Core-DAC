@@ -8,6 +8,7 @@
 -->
 
 <!-- PROJECT SHIELDS -->
+
 <!--
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
@@ -15,6 +16,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -23,6 +25,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
   <a href="https://github.com/yusufadell/Core-DAC">
@@ -31,7 +34,7 @@
 
 <h3 align="center">project_title</h3>
 
-  <p align="center">
+<p align="center">
     Most interviewers won't ask about specific algorithms for binary tree balancing or other complex
 algorithms. Frankly, being several years out of school, they probably don't remember these algorithms either.
 You're usually only expected to know the basics. Here's a list of the absolute must-have knowledge:
@@ -48,6 +51,7 @@ You're usually only expected to know the basics. Here's a list of the absolute m
 </div>
 
 <!-- TABLE OF CONTENTS -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -67,6 +71,7 @@ You're usually only expected to know the basics. Here's a list of the absolute m
 </details>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 **Core Data Structures, Algorithms, and Concepts**
@@ -76,25 +81,31 @@ algorithms. Frankly, being several years out of school, they probably don't reme
 You're usually only expected to know the basics. Here's a list of the absolute must-have knowledge:
 
 <!-- Table for Datastrucutures and algorithms and Concepts -->
+<div align="center">
 
-|    Data Structures     |      Algorithms      |        Concepts         |
-| :--------------------: | :------------------: | :---------------------: |
-|      Linked LIsts      | Breadth-First Search |    Bit Manipulation     |
-| Trees, Tries, & Graphs |  Depth-First Search  | Memory (Stack vs. Heap) |
-|     Stacks & Qeues     |    Binary Search     |       Recurision        |
-|         Heaps          |      Merge Sort      |   Dynamic Programming   |
-| Verctors / ArrayLists  |      Quick SOrt      |   Big O Time & Space    |
-|      Hash Tables       |                      |
+| Data Structures        | Algorithms           | Concepts                |
+| ---------------------- | :------------------- | :---------------------- |
+| Linked LIsts           | Breadth-First Search | Bit Manipulation        |
+| Trees, Tries, & Graphs | Depth-First Search   | Memory (Stack vs. Heap) |
+| Stacks & Qeues         | Binary Search        | Recurision              |
+| Heaps                  | Merge Sort           | Dynamic Programming     |
+| Verctors / ArrayLists  | Quick SOrt           | Big O Time & Space      |
+| Hash Tables            |                      |                         |
+
+</div>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 _For more examples, please refer to the [Documentation](https://example.com)_
@@ -102,6 +113,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] Feature 1
@@ -114,6 +126,7 @@ See the [open issues](https://github.com/yusufadell/Core-DAC/issues) for a full 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -130,6 +143,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -137,6 +151,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
+
 ## Contact
 
 Your Name - [@WHYUSUF_](https://twitter.com/WHYUSUF_) - yusufadell.dev@gmail.com
@@ -146,6 +161,7 @@ Project Link: [https://github.com/yusufadell/Core-DAC](https://github.com/yusufa
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 - [yusufadell](https://linkedin.com/in/yusufadell)
@@ -153,7 +169,9 @@ Project Link: [https://github.com/yusufadell/Core-DAC](https://github.com/yusufa
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/yusufadell/Core-DAC.svg?style=for-the-badge
 [contributors-url]: https://github.com/yusufadell/Core-DAC/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/yusufadell/Core-DAC.svg?style=for-the-badge
