@@ -77,7 +77,8 @@ You're usually only expected to know the basics. Here's a list of the absolute m
 
 </div>
 <!-- add link to google in markdown -->
-👇 [reference][fundamentals-of-the-software-engineering-interview] 👇
+
+[reference][fundamentals-of-the-software-engineering-interview]
 
 ### Details Algorithms
 
